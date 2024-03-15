@@ -35,3 +35,7 @@ npm run build
 <br />
 
 # Play the game:
+
+
+https://github.com/lojito/vue-matching-pairs/assets/46691447/a0679b92-a5be-4595-ba51-35218fb196fd
+
